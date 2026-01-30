@@ -1,24 +1,26 @@
 <h1 align="center">👋 Hi, I'm Soumaya Abderahmen</h1>
-<h3 align="center">Cloud / DevOps / SRE / Platform Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Cloud+Engineer;DevOps+Engineer;SRE;Platform+Engineer;Automation+Enthusiast" />
+</p>
 
 <p align="center">
 ☁️ AWS | Azure | OpenStack | Kubernetes | Terraform | CI/CD | Monitoring  
-🚀 Passionnée par l’automatisation, le cloud et la fiabilité des systèmes  
-📍 Tunis, Tunisia
+🚀 Passionate about automation, cloud computing and system reliability
 </p>
 
 ---
 
-## 👩‍💻 À propos de moi
+## 👩‍💻 About Me
 
-Ingénieure Cloud & DevOps junior spécialisée dans la mise en place de pipelines CI/CD, l’automatisation de l’infrastructure, la containerisation Docker/Kubernetes et l’observabilité.  
-Intéressée par le DevOps, le SRE, le Platform Engineering et le MLOps.
+Junior Cloud & DevOps Engineer specialized in CI/CD pipelines, infrastructure automation, Docker/Kubernetes containerization and observability.  
+Interested in DevOps, SRE, Platform Engineering and MLOps.
 
 ---
 
-## 🧰 Outils & Technologies
+## 🧰 Tools & Technologies
 
-### ☁️ Cloud & Virtualisation
+### ☁️ Cloud & Virtualization
 AWS, Azure, OpenStack, Proxmox, VMware, VirtualBox, KVM
 
 ### ⚙️ DevOps & Platform
@@ -30,14 +32,14 @@ GitHub Actions, GitLab CI/CD, Jenkins
 ### 📊 Monitoring & Logging
 Prometheus, Grafana, Loki, Promtail, Alertmanager, ELK Stack
 
-### 🔐 Sécurité & Qualité
+### 🔐 Security & Quality
 SonarQube, SonarCloud, Trivy, Nexus
 
-### 💻 Langages & Frameworks
+### 💻 Languages & Frameworks
 Java, Python, JavaScript, C, C#  
 Spring Boot, Angular, Laravel, Vue.js, FastAPI
 
-### 🗄️ Bases de Données
+### 🗄️ Databases
 MySQL, PostgreSQL
 
 ---
@@ -50,116 +52,63 @@ MySQL, PostgreSQL
 
 ---
 
-## 🚀 Projets & Repositories
+## 🚀 Projects & Repositories
 
-### 🏠 Gestion de Foyer – CI/CD
-**Description :**  
-Plateforme de gestion de foyer intégrant un pipeline CI/CD moderne avec automatisation complète du cycle de vie applicatif.
-
-**Fonctionnalités clés :**
-- Build, tests et analyse de qualité automatisés  
-- Scan de sécurité avec Trivy & SonarCloud  
-- Containerisation Docker  
-- Déploiement Kubernetes  
-- Monitoring avec Prometheus & Grafana  
+### 🏠 Foyer Management – CI/CD
+Modern CI/CD-enabled platform for managing foyers with full automation of application lifecycle.
 
 👉 https://github.com/Soumayabderahmen/gestion-foyer-cicd
 
 ---
 
-### ✈️ Plateforme E-Tourisme
-**Description :**  
-Application web en microservices pour la gestion de services touristiques.
-
-**Fonctionnalités clés :**
-- Backend Spring Boot & Frontend Angular  
-- Containerisation Docker  
-- Déploiement Kubernetes  
-- CI/CD automatisé  
+### ✈️ E-Tourism Platform
+Microservices-based web application for managing tourism services.
 
 👉 https://github.com/Soumayabderahmen/plateforme-E-Tourisme
 
 ---
 
 ### 🏥 Dawini
-**Description :**  
-Plateforme de gestion médicale pour patients et médecins.
-
-**Fonctionnalités clés :**
-- Gestion des rendez-vous  
-- Authentification sécurisée  
-- Backend Laravel / Frontend Web  
-- Base de données MySQL  
+Medical management platform for patients and doctors.
 
 👉 https://github.com/Soumayabderahmen/dawini
 
 ---
 
 ### 🤝 BeClose
-**Description :**  
-Application sociale favorisant la collaboration et la communication.
-
-**Fonctionnalités clés :**
-- Gestion des utilisateurs  
-- Messagerie & interactions  
-- Backend & Frontend web  
+Social application focused on collaboration and communication.
 
 👉 https://github.com/Soumayabderahmen/BeClose
 
 ---
 
-### 🏢 Projet DevOps – IronByte
-**Description :**  
-Mise en place d’une architecture DevOps complète pour des microservices.
-
-**Fonctionnalités clés :**
-- Pipelines Jenkins & GitLab CI  
-- Docker & Kubernetes  
-- Terraform pour Infrastructure as Code  
-- Monitoring & alerting  
+### 🏢 DevOps Project – IronByte
+Complete DevOps architecture for microservices.
 
 👉 https://github.com/Soumayabderahmen/IRONBYTE_PROJECT
-
 
 ---
 
 ### 🤖 Chatbot DevOps Cloud (PFE)
-Chatbot IA intégrant LLM, NLP et RAG avec déploiement cloud.
+AI-powered chatbot using LLM, NLP and RAG with cloud deployment.
 
-**Accès & Infrastructure Cloud (AWS) :**
-- Région : eu-west-3 (Paris)  
-- VPC dédié : chatbot-vpc  
-- Subnet public → EC2  
-- Subnet privé → RDS MySQL  
-- EC2 exposée à Internet  
-- RDS isolée (accès uniquement depuis EC2)  
-- Services AWS : EC2, RDS, S3, Route53  
-- Infrastructure provisionnée avec Terraform  
+**AWS Infrastructure:**
+- Dedicated VPC  
+- Public subnet → EC2  
+- Private subnet → RDS MySQL  
+- EC2 publicly accessible  
+- RDS accessible only from EC2  
+- AWS Services: EC2, RDS, S3, Route53  
+- Infrastructure provisioned using Terraform  
 
 👉 https://github.com/Soumayabderahmen/chatbot-devops-cloud-pfe
 
 ---
 
 ### 📅 Appointment AI Platform
-**Description :**  
-Plateforme intelligente de gestion de rendez-vous avec IA.
-
-**Fonctionnalités clés :**
-- Microservices FastAPI  
-- Frontend Vue.js  
-- Infrastructure AWS avec Terraform  
-- Monitoring & alerting  
+AI-powered appointment management platform.
 
 👉 https://github.com/Soumayabderahmen/appointment-ai-platform
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumayabderahmen&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumayabderahmen&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
@@ -172,4 +121,4 @@ Plateforme intelligente de gestion de rendez-vous avec IA.
 
 ---
 
-⭐ Merci de visiter mon profil !
+⭐ Thanks for visiting my profile!
